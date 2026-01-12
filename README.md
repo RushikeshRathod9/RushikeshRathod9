@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-rathod-800776291) 
-[![LinkedIn](https://www.hackerrank.com/profile/TheQuantumBeing)
+[![hackerrank](https://www.hackerrank.com/profile/TheQuantumBeing)
 
 
 # 💻 Tech Stack:
