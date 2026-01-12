@@ -2,7 +2,7 @@
 <h1 align="center">👋, My name is Rushikesh Rathod</h1>
 
 # 💫 About Me:
-🔭 I'm currently studying computer science and engineering<br>🌱 I'm currently learning power bi,python, AI&ML<br>👯 I’m looking to collaborate on open source projects ,min projects<br>📫 How to reach me https://www.linkedin.com/in/rushikesh-rathod-800776291/<br>⚡ Fun fact: i am lazy
+🔭 I'm currently studying computer science and engineering<br>🌱 I'm currently learning power bi,python, AI&ML<br>👯 I’m looking to collaborate on open source projects ,min projects<br>📫 How to reach me https://www.linkedin.com/in/rushikesh-rathod-800776291/<br>⚡ Fun fact: I AM NOT FUNNY
 
 
 ## 🌐 Socials:
